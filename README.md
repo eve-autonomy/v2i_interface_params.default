@@ -13,7 +13,7 @@ This package has 4 types of parallel directories for parameter management:
 The list of parameter names managed in these directories is the same, only the values are different.
 
 ## Parameter details
-See the [parameter description for v2i_interface](https://github.com/eve-autonomy/v2i_interface#parameter-discription).
+See the [parameter description for v2i_interface](https://github.com/eve-autonomy/v2i_interface#parameter-description).
 
 ## Extensibility of this package
 This package is a template as a parameter configuration.
