@@ -10,7 +10,7 @@ This package has 4 types of parameter set in each directory depending on purpose
   - This is for test connection settings of the broadcasting device that runs locally.
   - This is used as a criterion for test before `v2i_interface` is released as OSS.
 
-The list of parameter names managed in these directories is the same, only the values are different.
+Parameters in these directories are same. Only their values are different from each directory.
 
 ## Parameter details
 See the [parameter description for v2i_interface](https://github.com/eve-autonomy/v2i_interface#parameter-description).
