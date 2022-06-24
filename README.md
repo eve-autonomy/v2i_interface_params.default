@@ -3,12 +3,12 @@
 ## Overview
 This is a package for managing parameters to use [v2i_interface](https://github.com/eve-autonomy/v2i_interface) easily.
 
-This package has 4 types of parallel directories for parameter management:
-- `product`
-  - This directory manages the parameters as connection settings to the broadcasting device.
-- `local_test`
-  - This directory manages the parameters as connection settings to the dummy of the broadcasting device that runs locally.
-  - It is mainly used as a criterion for testing as OSS.
+This package has 4 types of parameter set in each directory depending on purposes.
+- `product` directory
+  - This is for connection settings to the broadcasting device.
+- `local_test` directory
+  - This is for test connection settings of the broadcasting device that runs locally.
+  - This is used as a criterion for test before `v2i_interface` is released as OSS.
 
 The list of parameter names managed in these directories is the same, only the values are different.
 
