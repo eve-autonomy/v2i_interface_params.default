@@ -1,4 +1,4 @@
-# v2i_interface_params
+# Vehicle to interface (V2I) parameters
 
 ## Overview
 This is a package for managing parameters to make [v2i_interface](https://github.com/eve-autonomy/v2i_interface) easier to use.
