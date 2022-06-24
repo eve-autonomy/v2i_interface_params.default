@@ -1,7 +1,7 @@
 # Vehicle to interface (V2I) parameters
 
 ## Overview
-This is a package for managing parameters to make [v2i_interface](https://github.com/eve-autonomy/v2i_interface) easier to use.
+This is a package for managing parameters to use [v2i_interface](https://github.com/eve-autonomy/v2i_interface) easily.
 
 This package has 4 types of parallel directories for parameter management:
 - `product`
